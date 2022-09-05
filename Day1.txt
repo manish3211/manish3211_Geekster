@@ -1,0 +1,59 @@
+public class MyClass {
+    public static void main(String args[]) {
+      
+Q1:
+      System.out.println("Hello I am enjoying coding");
+
+
+
+Q2:
+	 System.out.println("Hello\nI\nam\nenjoying\ncoding");
+
+
+
+Q3:
+	int x=100;
+      	int y=8;
+      	int z=3;
+
+      	System.out.println(x+y+z);
+      	System.out.println(x*y*z);
+
+
+
+Q4:
+	int x=100;
+      	int y=40;
+
+      	System.out.println(x-y);
+
+
+
+Q5:
+	System.out.println("*****\n*****\n*****\n*****\n*****\n*****");
+
+
+
+
+Q6:
+	System.out.println("* *\n* *\n* *\n* *\n* *\n****");
+
+
+
+Q7:
+	int x=987653;
+      
+      System.out.println(x%10);
+
+
+
+
+Q8:
+	int m=15;
+      	int n=4;
+      
+      	System.out.println(m+n);
+      	System.out.println(m-n);
+      	System.out.println(m*n);
+    }
+}

@@ -1,0 +1,114 @@
+public class MyClass {
+    public static void main(String args[]) {
+      
+
+Q1:
+
+	int d;
+      	int r=d/2;
+      	int a=(22*r*r)/7;
+
+      	System.out.println(a);
+
+
+
+
+Q2:
+
+	double x;
+      	double y;
+      	double a=(x*y)/2;
+      
+      	System.out.println(a);
+
+
+
+
+Q3:
+
+	int x;
+      
+      	if(x>1000){
+      		System.out.println("true");
+      	}else{
+          	System.out.println("false");
+      	}
+
+
+
+Q5:
+
+	a. Int x = 7+3+4 =>x=14
+	b. Int x = 12+5+8 =>x=25
+	c. Int x= 13/5 + 18/8 =>x=4
+	d. double x= 12 + 5.0 + 2.76 => x=19.759999999999998
+	e. double x= 12/3 + 13/2 =>x=10.0
+	f. double x=12/3 + 13.0/2 =>x=10.5
+	g. double x=14/2 + 15.0/4 =>x=10.75
+	h. double x= 13/2 % 5/3 =>x=0.0
+	i. double x= 17.0/2 % 16.0/4 =>x=2.125
+
+
+
+
+Q6:
+
+	a. boolean ans = 3 > 2 =>ans=true
+	b. boolean ans = 3 ≥ 3 =>ans=true
+	c. boolean ans = 4 + 3 > 9 =>ans=false
+	d. boolean ans = 10 + 8 > 10 =>ans=true
+	e. boolean ans = 12 != 10 =>ans=true
+	f. boolean ans = 13 == 13 =>ans=true
+	g. boolean ans = 14 != 14 =>ans=false
+	h. boolean ans = 20 == 5*4 =>ans=true
+	i. boolean ans = 30 != 3+4-10 =>ans=true
+	j. boolean ans = 20 == 41/2 =>ans=true
+
+
+
+
+
+Q7:
+
+	double a;
+      	double b;
+      	double c;
+      	double d;
+      	double e;
+      	double sum=a+b+c+d+e;
+      	double percentage=(sum/500)*100;
+      
+      	System.out.println(sum);
+      	System.out.println(percentage);
+	
+
+
+
+Q8:
+
+	int a;
+      	int b;
+      	int c;
+      	int d;
+      
+      	if(a*b*c*d>1000){
+      		System.out.println("true");
+      	}else{
+     		 System.out.println("false");
+      	}
+
+
+
+
+
+Q9:
+
+	int x;
+
+      	if(x%7==0){
+      		System.out.println("divisible by 7");
+      	}else{
+      		System.out.println("not divisible by 7");
+      	}
+
+	
